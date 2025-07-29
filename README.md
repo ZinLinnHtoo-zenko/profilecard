@@ -22,8 +22,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/ZinLinnHtoo-zenko/profilecard](https://your-solution-url.com)
-- Live Site URL: [https://zinlinnhtooprofilecardreview.netlify.app/](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/ZinLinnHtoo-zenko/profilecard)
+- Live Site URL: [Live Demo](https://zinlinnhtooprofilecardreview.netlify.app/)
 
 ## My process
 
